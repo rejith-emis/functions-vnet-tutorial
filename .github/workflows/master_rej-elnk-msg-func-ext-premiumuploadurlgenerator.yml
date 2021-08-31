@@ -39,5 +39,5 @@ jobs:
         app-name: 'rej-elnk-msg-func-ext-premiumuploadurlgenerator'
         slot-name: 'production'
         package: '${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}/output'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_98dc7bdfe1cb4d689f4d2f37e00003d3 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_3adf078f96224490bd54ce2bec685a1e }}
   
